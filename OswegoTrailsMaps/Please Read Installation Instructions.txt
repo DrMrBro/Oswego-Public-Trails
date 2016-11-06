@@ -1,0 +1,24 @@
+Installation Instructions:
+
+
+I am trying to make this transition as smooth as I can
+that is why I included this instructions. 
+
+- Import GoogleLoginM into Android Studio
+- Let the Graddle build- it can take a while
+- Click install missing platforms and sycn project if 'Prompt'
+- wait until download and installation is complete
+- Let the Graddle build again- it can take a while...get a cup of coffee and come back when is finish..
+- If you are using the emulator, I was woking with the Nexus 6P emulator so please install it.
+- I will highly suggest using a physical device but if you don't have one no problem..I was just having problems with the emulator while rendering google maps..
+
+About Project:
+- There are six classes and twelve layouts that you can work on.
+- Don't worry about the sign in button since is throwing a NullPointerexception
+when imported from a different computer then its original
+
+Have fun! & Happy Coding!
+
+*********Thank you*************
+
+<<<<<<<<<<Miguel Rodriguez>>>>>>>>>
