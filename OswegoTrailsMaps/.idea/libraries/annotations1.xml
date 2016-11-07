@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="annotations1">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/GoogleLoginM/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/annotations.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

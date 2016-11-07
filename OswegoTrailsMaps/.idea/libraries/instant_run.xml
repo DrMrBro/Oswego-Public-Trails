@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="instant-run">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/GoogleLoginM/app/build/intermediates/instant-run-support/debug/instant-run.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
