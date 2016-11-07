@@ -35,7 +35,7 @@ public class MenuActivity extends Activity {
          */
 
         if(button_text.equals("Maps")){
-            Intent intent = new Intent(this, MapsActivity.class);
+            Intent intent = new Intent(this, MapScreenActivity.class);
             startActivity(intent);
         }else if(button_text.equals("Trails")){
             Intent intent = new Intent(this, TrailsActivity.class);
