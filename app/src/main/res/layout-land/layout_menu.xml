@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:text="                           Main Menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView11"
+        android:textStyle="normal|bold"
+        android:textSize="36sp"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:fontFamily="cursive"
+        android:layout_above="@+id/button11"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="13dp" />
+
+    <Button
+        android:text="Trails"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:id="@+id/button11"
+        android:layout_weight="0.07"
+        android:onClick="showMenu"
+        android:layout_above="@+id/button10"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Weather"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:id="@+id/button10"
+        android:layout_weight="0.08"
+        android:onClick="showMenu"
+        android:layout_above="@+id/button9"
+        android:layout_alignLeft="@+id/button11"
+        android:layout_alignStart="@+id/button11" />
+
+    <Button
+        android:text="Compass"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:id="@+id/button9"
+        android:layout_weight="0.07"
+        android:onClick="showMenu"
+        android:layout_above="@+id/button8"
+        android:layout_alignLeft="@+id/button10"
+        android:layout_alignStart="@+id/button10" />
+
+    <Button
+        android:text="Maps"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:id="@+id/button8"
+        android:layout_weight="0.07"
+        android:onClick="showMenu"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/button9"
+        android:layout_alignStart="@+id/button9" />
+
+</RelativeLayout>

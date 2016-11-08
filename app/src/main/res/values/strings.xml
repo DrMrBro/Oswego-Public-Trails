@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleLoginM</string>
+    <string name="title_activity_map_screen">Map</string>
+    <string name="title_activity_trail">Trail</string>
+    <string name="alphanumeric">A-Z</string>
+    <string name="rating">Rating</string>
+    <string name="type">Type</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="search">Search</string>
+</resources>

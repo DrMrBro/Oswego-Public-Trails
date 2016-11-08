@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trail_list">
+        <item>Albion Cross Trail</item>
+        <item>Amboy 4H Environmental Education Center</item>
+        <item>Chateaugay State Forest</item>
+        <item>Deer Creek Marsh</item>
+        <item>Derby Hill Bird Observatory</item>
+        <item>Fallbrook Recreation Center</item>
+        <item>Great Bear Springs Recreation Area</item>
+        <item>Happy Valley Wildlife Management Area</item>
+        <item>Hastings Town Park</item>
+        <item>Independence Park</item>
+        <item>Klondike State Forest</item>
+        <item>Littlejohn State Wildlife Management Area</item>
+        <item>Mexico Point Park</item>
+        <item>Oswego County Forest Land</item>
+        <item>Oswego County Nature Park at Camp Zerbe</item>
+        <item>Oswego County Recreation Trail</item>
+        <item>Oswego East and West Riverwalks</item>
+        <item>Rice Creek Biological Field Station</item>
+        <item>Richard A. Noyes Bird Sanctuary</item>
+        <item>Salmon River Falls Unique Area</item>
+        <item>Sage Creek Trail</item>
+        <item>Salmon River State Forest</item>
+        <item>Sandy Creek Community Park</item>
+        <item>Sandy Island Beach State Park</item>
+        <item>Selkirk Shores State Park</item>
+        <item>Sunset Bay Park</item>
+        <item>Three Mile Bay/Big Bay State Wildlife Management Area</item>
+        <item>Trout Brook State Forest</item>
+        <item>Winona State Forest Recreation Area</item>
+    </string-array>
+</resources>
